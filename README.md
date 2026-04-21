@@ -50,6 +50,8 @@ This project analyzes customer purchasing behavior and sales performance using t
 
 <img width="1335" height="740" alt="dashboard_page1" src="https://github.com/user-attachments/assets/c364563f-0322-48d5-b3ea-c61b1db7d6da" />
 
+##
+
 <img width="1347" height="748" alt="dashboard_page2" src="https://github.com/user-attachments/assets/c62f15ce-48a0-4cb0-8de6-23749ecff919" />
 
 
